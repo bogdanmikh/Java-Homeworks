@@ -1,4 +1,4 @@
-package Lesson2;
+package lesson1_2;
 
 public class LinkedList<T> implements List<T> {
     private static class Node<E> {

@@ -1,4 +1,4 @@
-package Lesson2;
+package lesson1_2;
 
 import java.util.Random;
 

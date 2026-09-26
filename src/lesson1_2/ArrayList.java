@@ -1,4 +1,4 @@
-package Lesson2;
+package lesson1_2;
 
 public class ArrayList<T> implements List<T> {
     private int initialCapacity = 10;
